@@ -9,7 +9,7 @@
 
 ## Project 5: Home Service Robot
 
-## Other projects form the old version of this Nanodegree
+## Other projects from the old version of this Nanodegree
 ### Project: Rover
 
 ### Project: Pick and Place
